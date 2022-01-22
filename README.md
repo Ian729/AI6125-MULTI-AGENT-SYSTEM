@@ -2,7 +2,7 @@
 All course materials of Nanyang Technological University Master of Science in Artificial Intelligence AI6125 MULTI-AGENT SYSTEM
 
 ## Additional Materials
-3-Hour Revision on [Basics of Agents](http://videolectures.net/ssll09_lloyd_inta/)
+3-Hour Revision on Basics of Agents(http://videolectures.net/ssll09_lloyd_inta/)  
 There are 3 hours of lectures, the first two are perhaps most directly relevant.
 Other lectures are interesting and cover some concepts we covered.
 For all the material not familiar to you, or explicitly not in the lecture slides, will not be assessed in the exam.
